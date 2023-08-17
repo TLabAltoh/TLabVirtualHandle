@@ -5,7 +5,7 @@ Operation verified by CarParking.
 
 ## Screenshot
 <img src="Media/tlab-virtual-handle.png" width="512"></img>  
-<img src="Media/tlab-virtual-handle-demeo.gif" width="512"></img>
+<img src="Media/tlab-virtual-handle-demo.gif" width="512"></img>
 
 ## Note
 - Some of the UI, such as pop-up windows, is currently in Japanese. An English version will be released in the future.
