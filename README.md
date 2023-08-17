@@ -4,7 +4,7 @@ Handle operations using the mouse can be assigned to the keyboard.
 Operation verified by CarParking.
 
 ## Screenshot
-<img src="Media/アイコン.png" width="512"></img>
+<img src="Media/icon.png" width="512"></img>
 <img src="Media/tlab-virtual-handle.png" width="512"></img>  
 <img src="Media/tlab-virtual-handle-demo.gif" width="512"></img>
 
